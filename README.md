@@ -14,7 +14,8 @@ I'm a 2nd-year Computer Science Engineering student at **Shri Guru Gobind Singhj
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,go,java,postgres,nodejs,express,react,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,go,java,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb" />
 </p>
 
 ---
