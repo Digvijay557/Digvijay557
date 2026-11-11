@@ -24,7 +24,7 @@ I'm a 2nd-year Computer Science Engineering student at **Shri Guru Gobind Singhj
 
 | Project | Description |
 |---|---|
-| [StreamForge](https://github.com/Digvijay557/streamforge) | open-source Node.js middleware that gives any app adaptive-bitrate video streaming, with server-side FFmpeg/HLS transcoding and a client player driven by a custom dual-EWMA bandwidth-adaptation engine.  |
+| [StreamForge](https://github.com/Digvijay557/streamforge) | An open-source Node.js middleware that gives any app adaptive-bitrate video streaming, with server-side FFmpeg/HLS transcoding and a client player driven by a custom ABR engine.  |
 | [PeerDrop](https://github.com/Digvijay557/peerdrrop) | Peer-to-peer file sharing application |
 
 ---
