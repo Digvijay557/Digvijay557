@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Digvijay Shelke 👋
 
-<!--
-**Digvijay557/Digvijay557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | CSE Student
 
-Here are some ideas to get you started:
+I'm a 2nd-year Computer Science Engineering student at **Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIE&T)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Interested in Backend Development
+-  Exploring scalable systems and backend architecture
+-  Learning Go, concurrency and system design
+-  Practicing Data Structures and Algorithms
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,go,java,react,mongodb,postgres,git,github" />
+</p>
+
+---
+
+###  Projects
+
+| Project | Description |
+|---|---|
+| [StreamForge](https://github.com/Digvijay557/streamforge) | Video streaming and HLS project |
+| [PeerDrop](https://github.com/Digvijay557/peerdrrop) | Peer-to-peer file sharing application |
+
+---
+
+###  Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digvijay-shelke-020a94201/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF7A00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Eyjffhkgs3ybhpufvgorwdg96rjk/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF7A00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Digvijay557)
