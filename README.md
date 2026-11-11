@@ -15,7 +15,7 @@ I'm a 2nd-year Computer Science Engineering student at **Shri Guru Gobind Singhj
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,go,java,postgres,git,github" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ---
